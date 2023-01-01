@@ -6,3 +6,6 @@ for ($i = 0; $i < count($numbers); $i++) {
 
     echo $numbers[$i] . '<br>';
 }
+
+foreach ($variable as $key => $value) {
+}
